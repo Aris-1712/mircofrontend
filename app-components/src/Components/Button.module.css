@@ -1,0 +1,10 @@
+.btn-primary {
+    outline: none;
+    border: none;
+    background-color: rgb(255, 221, 0);
+    cursor: pointer;
+    color: black;
+    padding: 8px 16px;
+    font-size: 16px;
+    border-radius: 8px;
+}
